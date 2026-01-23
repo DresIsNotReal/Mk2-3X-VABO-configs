@@ -1,2 +1,1 @@
-A simple mod for adding VAB Organizer compatibility to Mk2 and Mk3 Stockalike Expansion packs. That's basically it. Still totally WIP.
-Remember that I currently do not have the consent of Nertea and SuicidalInsanity's consent to publish this to the community; therefore it is not officially released and may be against the KSP community guidelines if you(excluding Nertea and SuicidalInsanity) download this.
+A simple mod for adding VAB Organizer compatibility to Mk2 and Mk3 Stockalike Expansion packs. That's basically it. Only the file for Mk3X is completed, the Mk2X one is still indev.
